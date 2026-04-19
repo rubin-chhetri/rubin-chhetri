@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Rubin Chhetri
 
-<!--
-**rubin-chhetri/rubin-chhetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Full Stack Developer | 🚀 Learning & Building
 
-Here are some ideas to get you started:
+I build things for the web and focus on writing clean, practical code.
+Currently improving my skills by working on real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ What I Work With
+
+* JavaScript
+* React
+* Next.js
+* Node.js
+* Express
+* MongoDB
+
+---
+
+## 🧠 What I'm Learning
+
+* System design
+* Backend architecture & scalability
+* Writing better, maintainable code
+
+---
+
+## 🧩 What You’ll Find Here
+
+* Real projects (not tutorials)
+* Backend systems with proper structure
+* Experiments while learning new concepts
+
+---
+
+## 📫 Contact
+
+* Email:rubeen.adhikari2017@gmail.com
+* LinkedIn:https://www.linkedin.com/in/rubin-chhetri
+* Facebook:https://www.facebook.com/rubin.chhetri.9400
+* Instagram:https://www.instagram.com/rubin_adhikari
+
+---
